@@ -45,3 +45,44 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.json
+*.dat
+*.exe
+*.pak
+*.png
+*.spa
+*.html
+*.xml
+*.dll
+*.hlsl
+*.jpg
+*.cfg
+Spotify/
+.minecraft/
+.mono/
+Adobe/
+Audacity/
+Autodesk/
+Battle.net/
+CodeBlocks/
+discord/
+GameLauncher/
+Azureus/
+Microsoft/
+GitHub/
+java/
+Macromedia/
+Mount&Blade Warband/
+Mozilla/
+Notepad++/
+NuGet/
+NVIDIA/
+obs-studio/
+Origin/
+PDAppFlex/
+Profiles/
+Skype/
+SpaceEngineers/
+Slack/
+TS3Client/
+WTablet/
